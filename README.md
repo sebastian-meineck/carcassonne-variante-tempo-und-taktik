@@ -86,7 +86,7 @@ Der Gutshof bringt mehr Taktik in Spiel, weil er geballte Bauprojekte belohnt. D
 - Bei der Wertung gibt es zwei Punkte für jedes der neun Plättchen des Gutshofs, das auch ein Stück Stadt oder ein Kloster enthält. In der Endauswertung ist es ein Punkt.
 
 ## Modul 8: Türme
-Türme bringt mehr Taktik und Tempo ins Spiel. In ihr Umfeld dürfen Spielende unbegrenzt viele Spielsteine setzen. Aber die Position eines Turms will weise gewählt sein: Einmal gebaut muss ein Turm bis zum Spielende stehen bleiben. Als Quelle für Spielsteine in Frage kommt die Erweiterung "Der Turm".
+Türme bringen mehr Taktik und Tempo ins Spiel. In ihr Umfeld dürfen Spielende unbegrenzt viele Spielsteine setzen. Aber die Position eines Turms will weise gewählt sein: Einmal gebaut muss ein Turm bis zum Spielende stehen bleiben. Als Quelle für Spielsteine in Frage kommt die Erweiterung "Der Turm".
 
 - Jede Person hat zwei Türme. Ein Turm darf auf ein frisch gelegtes Plättchen gesetzt werden.
 
