@@ -15,7 +15,7 @@ Das Glücksschwein bringt mehr Tempo ins Spiel. Der Spielstein stammt ursprüngl
 	
 - Pro Spielzug kann eine Person durch das Glücksschwein höchstens ein zusätzliches Plättchen erhalten.
 	
-- Ist das Glücksschwein vollständig von Plättchen umgeben, kommt es zurück in den Vorrat.
+- Ist das Glücksschwein (wie ein Kloster) vollständig von Plättchen umgeben, kommt es zurück in den Vorrat.
 
 ## Modul 2: Drache
 Der Drache bringt mehr Taktik und Dynamik ins Spiel, weil er Meeple bedroht. Er stammt ursprünglich aus der Erweiterung "Burgfräulein & Drache". Um die Figur im Spiel einzusetzen, braucht es die Erweiterung "Der Fluss".
@@ -66,7 +66,7 @@ Der Wagen bringt mehr Taktik in Spiel, weil mit ihm lange Straßen belohnt werde
 ## Modul 6: Zollstation
 Die Zollstation wertet Straßen auf. Sie bringt mehr Taktik, weil bestimmte Straßen mehr Punkte bringen. Die Spielfigur stammt ursprünglich aus dem Carcassonne-Spin-off "Jäger und Sammler" und heißt dort "Fischerhütte".
 
-- Jede Person erhält zwei Zollstationen in der eigenen Spielfarbe. Die Zollstation darf auf in Plättchen mit Kreuzung gesetzt werden und gilt für alle Abzweigungen.
+- Jede Person erhält zwei Zollstationen in der eigenen Spielfarbe. Die Zollstation darf auf ein Plättchen mit Kreuzung gesetzt werden und gilt für alle Abzweigungen.
 
 - Sobald eine Abzweigung der Kreuzung geschlossen wird, kann die Zollstation Punkte machen. Es gibt zwei Punkte für jedes Straßen-Plättchen, das auch eine Stadtfläche oder ein Kloster enthält.
 
@@ -104,8 +104,8 @@ Beide Goldstücke gehen an die Person, die zuerst eine Wertung für eines der be
 
 - Immer wenn eine Straße abgeschlossen wird, müssen alle Spielenden ihre Goldstücke eintauschen, beginnend bei der Person, die gerade am Zug ist. Dabei können die Spielenden folgende Vorteile erwerben:
 
-- 2 Goldstücke = ein Mauerstück. Das Mauerstück schließt eine offene Kante ab und kann eine Wertung auslösen. Jederzeit spielbar, sobald man am Zug ist.
+- 2 Goldstücke = ein Mauerstück. Das Mauerstück schließt eine offene Plättchen-Kante ab und kann somit eine Wertung auslösen. Es darf gespielt werden, sobald man am Zug ist.
 
-- 1 Goldstück = ein zusätzliches Plättchen. Es muss gespielt werden, sobald man wieder am Zug ist.
+- 1 Goldstück = ein zusätzliches Plättchen. Es muss gespielt werden, sobald man am Zug ist.
 
 - 1 Goldstück = einen beliebigen, eigenen Spielstein zurücknehmen
