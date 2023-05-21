@@ -7,7 +7,7 @@ Soweit nicht anders beschrieben gelten die Regeln aus dem Basisspiel. Aus den Er
 Die Variante ist modular gestaltet. Das heißt, man kann das Spiel beliebig um einzelne oder um alle Module erweitern. Teilweise sehen die Module Spielfiguren vor, die nicht zu den offiziellen Erweiterungen gehören.
 
 ## Modul 1: Glücksschwein
-Das Glücksschwein bringt mehr Tempo ins Spiel. Der Spielstein stammt ursprünglich aus der Erweiterung "Händler & Baumeister".
+Das Glücksschwein bringt mehr Tempo ins Spiel. Die Spielfigur [(Bild)](https://wikicarpedia.com/index.php/Traders_and_Builders#/media/File:Figure_Pigs_C2.png) stammt ursprünglich aus der Erweiterung "Händler & Baumeister".
 
 - Jede Person hat ein Glücksschwein in ihrer Spielfarbe. Wer am Zug ist, darf das Schwein auf ein frisch gelegtes Plättchen legen.
 	
@@ -18,7 +18,7 @@ Das Glücksschwein bringt mehr Tempo ins Spiel. Der Spielstein stammt ursprüngl
 - Ist das Glücksschwein (wie ein Kloster) vollständig von Plättchen umgeben, kommt es zurück in den Vorrat.
 
 ## Modul 2: Drache
-Der Drache bringt mehr Taktik und Dynamik ins Spiel, weil er Meeple bedroht. Er stammt ursprünglich aus der Erweiterung "Burgfräulein & Drache". Um die Figur im Spiel einzusetzen, braucht es die Erweiterung "Der Fluss".
+Der Drache bringt mehr Taktik und Dynamik ins Spiel, weil er Meeple bedroht. Die Spielfigur [(Bild)](https://wikicarpedia.com/index.php/The_Princess_and_The_Dragon#/media/File:Figure_Dragon.png) stammt ursprünglich aus der Erweiterung "Burgfräulein & Drache". Um die Figur im Spiel einzusetzen, braucht es die Erweiterung "Der Fluss".
 
 - Der Drache gehört keiner bestimmten Person. Er steht zum Spielbeginn auf dem ersten Flussplättchen. 
 
@@ -29,7 +29,7 @@ Der Drache bringt mehr Taktik und Dynamik ins Spiel, weil er Meeple bedroht. Er 
 - Bei Fluss-Plättchen mit Kurven blickt der Drache in die Richtung, in die er danach weiterziehen wird, und speit dann nach rechts und links Feuer.
 
 ## Modul 3: Königin
-Die Königin bringt mehr Taktik ins Spiel, denn ihr Einsatz bedeutet extra Punkte und extra Risiko. Die Spielfigur stammt ursprünglich aus der Erweiterung "Der Abt" und heißt dort "Abt".
+Die Königin bringt mehr Taktik ins Spiel, denn ihr Einsatz bedeutet extra Punkte und extra Risiko. Die Spielfigur [(Bild)](https://wikicarpedia.com/index.php/The_Abbot#/media/File:Figure_Abbots_Base.png) stammt ursprünglich aus der Erweiterung "Der Abt" und heißt dort "Abt".
 
 - Jede Person erhält eine Königin in der eigenen Spielfarbe.
 
@@ -44,7 +44,7 @@ Die Königin bringt mehr Taktik ins Spiel, denn ihr Einsatz bedeutet extra Punkt
 - Eine unfertige Stadt mit Königin erzielt in der Endauswertung null Punkte.
 
 ## Modul 4: Zauberer
-Der Zauberer macht den Einsatz von Mönchen attraktiver und bringt mehr Tempo ins Spiel. Die Spielfigur stammt ursprünglich aus der Erweiterung "Magier und Hexe".
+Der Zauberer macht den Einsatz von Mönchen attraktiver und bringt mehr Tempo ins Spiel. Die Spielfigur [(Bild)](https://wikicarpedia.com/index.php/Mage_and_Witch#/media/File:Figure_Mage.png) stammt ursprünglich aus der Erweiterung "Magier und Hexe".
 
 - Der Zauberer gehört keiner bestimmten Person.
 
@@ -57,14 +57,14 @@ Der Zauberer macht den Einsatz von Mönchen attraktiver und bringt mehr Tempo in
 - Am Ende zieht der Zauberer auf das neue Kloster-Plättchen weiter.
 
 ## Modul 5: Wagen
-Der Wagen bringt mehr Taktik in Spiel, weil mit ihm lange Straßen belohnt werden. Die Spielfigur stammt ursprünglich aus der Erweiterung "Abtei und Bürgermeister".
+Der Wagen bringt mehr Taktik in Spiel, weil mit ihm lange Straßen belohnt werden. Die Spielfigur [(Bild)](https://wikicarpedia.com/index.php/Abbey_and_the_Mayor#/media/File:Figure_Wagons_C2.png) stammt ursprünglich aus der Erweiterung "Abtei und Bürgermeister".
 
 - Jede Person erhält einen Wagen in der eigenen Spielfarbe.
 
 -  Der Wagen kommt auf die längste Straße einer Person. In der Endauswertung gibt es für die Person mit der längsten Straße im gesamten Spiel zehn Punkte extra. Der Drache hat auf den Wagen keine Auswirkung.
 
 ## Modul 6: Zollstation
-Die Zollstation wertet Straßen auf. Sie bringt mehr Taktik, weil bestimmte Straßen mehr Punkte bringen. Die Spielfigur stammt ursprünglich aus dem Carcassonne-Spin-off "Jäger und Sammler" und heißt dort "Fischerhütte".
+Die Zollstation wertet Straßen auf. Sie bringt mehr Taktik, weil bestimmte Straßen mehr Punkte bringen. Die Spielfigur [(Bild)](https://wikicarpedia.com/index.php/Hunters_and_Gatherers_Base_Game#/media/File:Figure_Huts.png) stammt ursprünglich aus dem Carcassonne-Spin-off "Jäger und Sammler" und heißt dort "Fischerhütte".
 
 - Jede Person erhält zwei Zollstationen in der eigenen Spielfarbe. Die Zollstation darf auf ein Plättchen mit Kreuzung gesetzt werden und gilt für alle Abzweigungen.
 
@@ -77,7 +77,7 @@ Die Zollstation wertet Straßen auf. Sie bringt mehr Taktik, weil bestimmte Stra
 - Sind alle Straßen der Kreuzung geschlossen, kommt die Zollstation in den Vorrat zurück. 
 
 ## Modul 7: Gutshof
-Der Gutshof bringt mehr Taktik in Spiel, weil er geballte Bauprojekte belohnt. Die Spielfigur stammt ursprünglich aus der Erweiterung "Abtei und Bürgermeister".
+Der Gutshof bringt mehr Taktik in Spiel, weil er geballte Bauprojekte belohnt. Die Spielfigur [(Bild)](https://wikicarpedia.com/index.php/Abbey_and_the_Mayor#/media/File:Figure_Barns_C2.png) stammt ursprünglich aus der Erweiterung "Abtei und Bürgermeister".
 
 - Jede Person erhält einen Gutshof in ihrer Spielfarbe. Der Gutshof kommt auf die Wiese eines frisch gelegten Plättchens. 
 
@@ -86,7 +86,7 @@ Der Gutshof bringt mehr Taktik in Spiel, weil er geballte Bauprojekte belohnt. D
 - Bei der Wertung gibt es zwei Punkte für jedes der neun Plättchen des Gutshofs, das auch ein Stück Stadt oder ein Kloster enthält. In der Endauswertung ist es ein Punkt.
 
 ## Modul 8: Türme
-Türme bringen mehr Taktik und Tempo ins Spiel. In ihr Umfeld dürfen Spielende unbegrenzt viele Spielsteine setzen. Aber die Position eines Turms will weise gewählt sein: Einmal gebaut muss ein Turm bis zum Spielende stehen bleiben. Als Quelle für Spielsteine in Frage kommt die Erweiterung "Der Turm".
+Türme bringen mehr Taktik und Tempo ins Spiel. In ihr Umfeld dürfen Spielende unbegrenzt viele Spielsteine setzen. Aber die Position eines Turms will weise gewählt sein: Einmal gebaut muss ein Turm bis zum Spielende stehen bleiben. Als Quelle für Spielfiguren [(Bild)](https://wikicarpedia.com/index.php/The_Tower#/media/File:Figure_Tower.png) in Frage kommt die Erweiterung "Der Turm".
 
 - Jede Person hat zwei Türme. Ein Turm darf auf ein frisch gelegtes Plättchen gesetzt werden.
 
@@ -97,7 +97,7 @@ Türme bringen mehr Taktik und Tempo ins Spiel. In ihr Umfeld dürfen Spielende 
 - Der Turm und die Spielsteine in seinem direkten Umkreis sind vor dem Drachen geschützt.
 
 ## Modul 9: Gold und Mauerstücke
-Spielende können Gold gegen Vorteile eintauschen, die mehr Tempo ins Spiel bringen. Dabei haben sie drei Vorteile zur Auswahl, die sie taktisch abwägen müssen. Die Goldstücke stammen aus der Erweiterung "Die Goldminen". Die Mauerstücke stammen aus dem Carcassonne-Spin-off "Die Stadt".
+Spielende können Gold [(Bild)](https://wikicarpedia.com/index.php/The_Goldmines#/media/File:Figure_Gold.png) gegen Vorteile eintauschen, die mehr Tempo ins Spiel bringen. Dabei haben sie drei Vorteile zur Auswahl, die sie taktisch abwägen müssen. Die Goldstücke stammen aus der Erweiterung "Die Goldminen". Die Mauerstücke [(Bild)](https://wikicarpedia.com/index.php/The_City_Base_Game#/media/File:TheCity_WallPieces.jpg) stammen aus dem Carcassonne-Spin-off "Die Stadt".
 
 - Wird ein Plättchen mit aufgedrucktem Goldstück gelegt, kommt darauf ein Goldstück als Spielstein. Ein zweites Goldstück kommt auf ein beliebiges benachbartes Plättchen. 
 Beide Goldstücke gehen an die Person, die zuerst eine Wertung für eines der beiden Plättchen auslöst.
